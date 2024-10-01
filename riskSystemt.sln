@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "riskSystem", "riskSystem.csproj", "{BDE56547-428F-421B-BFC3-E8500BB9251F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE56547-428F-421B-BFC3-E8500BB9251F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE56547-428F-421B-BFC3-E8500BB9251F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE56547-428F-421B-BFC3-E8500BB9251F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE56547-428F-421B-BFC3-E8500BB9251F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FDCE7A0-5139-4523-8C80-1D5A92BDDBC6}
+	EndGlobalSection
+EndGlobal
